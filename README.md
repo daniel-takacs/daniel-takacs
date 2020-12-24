@@ -23,10 +23,3 @@ Languages and Tools:
 
 <br />
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-takacs&layout=compact)
-
-![Daniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danieltak)
-
-
-[linkedin]: linkedin.com/in/daniel-takacs-600814164
