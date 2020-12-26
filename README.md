@@ -28,7 +28,7 @@ Languages and Tools:
 Profile overview
 
 
-<img height="150em" width="340em" src="https://github-readme-stats.vercel.app/api?username=daniel-takacs&theme=vue&show_icons=true"/><img height="142em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-takacs&theme=vue&layout=compact"/>
+<img height="150em" width="340em" src="https://github-readme-stats.vercel.app/api?username=daniel-takacs&theme=vue&show_icons=true"/><img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-takacs&theme=vue&layout=compact"/>
 
 <br/>
 
