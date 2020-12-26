@@ -11,6 +11,7 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 -->
 <br />
 
+****
 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -23,3 +24,12 @@ Languages and Tools:
 
 <br />
 
+****
+Profile overview
+
+
+<img height="150em" width="340em" src="https://github-readme-stats.vercel.app/api?username=daniel-takacs&theme=vue&show_icons=true"/><img height="142em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-takacs&theme=vue&layout=compact"/>
+
+<br/>
+
+****
