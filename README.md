@@ -14,10 +14,11 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=appveyor&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=appveyor&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=appveyor&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=appveyor&logo=javascript)
 ![React JS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=appveyor&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=appveyor&logo=bootstrap)
+![PYTHON](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=appveyor&logo=python&Color=yellow)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=appveyor&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=appveyor&logo=visual-studio-code) 
