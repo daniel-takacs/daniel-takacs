@@ -9,23 +9,21 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 - 📫 How to reach me: ... -->
 <!-- - ⚡ Fun fact: ... 
 -->
-<br />
+<br >
 
-****
-Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=appveyor&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=appveyor&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=appveyor&logo=bootstrap)
+![React JS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=appveyor&logo=react)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=appveyor&logo=github)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=appveyor&logo=visual-studio-code) 
 
-<br />
 
-****
-Profile overview
+## Profile overview
 
 
 <img height="150em" width="340em" src="https://github-readme-stats.vercel.app/api?username=daniel-takacs&theme=vue&show_icons=true"/><img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-takacs&theme=vue&layout=compact"/>
