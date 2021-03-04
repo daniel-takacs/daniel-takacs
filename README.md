@@ -1,7 +1,7 @@
 Hi there, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--- 🔭 I’m currently working on: TodoList-->
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: React, Javascript, Django
 - 👯 I’m looking to collaborate on: anything
 <!--- 😄 Pronouns: He/Him-->
 <!-- 🤔 I’m looking for help with ... 
@@ -10,7 +10,6 @@ Hi there, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 <!-- - ⚡ Fun fact: ... 
 -->
 <br >
-
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white)
